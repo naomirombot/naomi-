@@ -2,7 +2,7 @@
 ## Diskripsi Project 
  Aplikasi tentang salah satu tokoh penting sumpah pemuda yaitu Mohammad Yamin.  
 ### Screenshot
-
+<img src="assets/Screenshot.png"/>
 ### Built With
 Flutter
 
